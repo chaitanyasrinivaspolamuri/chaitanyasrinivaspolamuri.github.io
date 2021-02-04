@@ -4,4 +4,3 @@
 ##* Branch : ECT
 ### Traning Certificate
 # Traning name: Source code Management Using Git & GitHub
-
