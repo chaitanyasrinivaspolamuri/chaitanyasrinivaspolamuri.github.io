@@ -1,2 +1,6 @@
-# chaitanyasrinivaspolamuri.github.io
-This is my web site
+# chaitanya srinivas
+## Educational Detials:
+** College Name**:Sri Vasavi Engineering College
+*** Branch*** ECT
+### Traning Certificate
+Traning name: Source code Management Using Git & GitHub
